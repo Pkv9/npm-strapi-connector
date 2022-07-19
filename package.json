@@ -1,0 +1,25 @@
+{
+  "name": "miniOrangeSSO",
+  "version": "0.0.0",
+  "description": "It is a SSO connector for strapi.",
+  "strapi": {
+    "name": "miniOrangeSSO",
+    "description": " ",
+    "kind": "provider",
+    "displayName": "miniOrangeSSO"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
