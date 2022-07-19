@@ -1,5 +1,5 @@
 {
-  "name": "miniOrangeSSO",
+  "name": "miniorange-sso-connector",
   "version": "0.0.0",
   "description": "It is a SSO connector for strapi.",
   "strapi": {
